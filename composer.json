@@ -2,7 +2,8 @@
   "name": "nishant_dev/docker-project",
   "description": "A PHP project using Composer",
   "require": {
-    "php": "^8.0"
+    "php": "^8.0",
+    "intervention/image": "^3.11"
   },
   "license": "proprietary",
   "autoload": {
